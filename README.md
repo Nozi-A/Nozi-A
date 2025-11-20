@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nozi-A
-- 👀 I’m interested in Bioinformatics and Cancer research
-- 🌱 I’m currently learning python with Standford Data ocean via the Precision medicine program
-- 💞️ I’m looking to collaborate on a bioinformatics project and cancer research
+- 👀 I’m interested in Bioinformatics
+- 💞️ I’m looking to collaborate on a bioinformatics project and metabolomics
 - 📫 you can reach me at magagulanozipho15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: i love Bioinformatics
